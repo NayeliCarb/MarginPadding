@@ -4,12 +4,12 @@ div{
 	background-color: #FFFFFF;
 	width: 240px;
 	height: 250px;
-	
+	margin-top: 10px;
 }
 p{
 	padding-right: 10px;
 	padding-left: 10px;
-	padding-top: 1px;
+	padding-top: 5px;
 	padding-bottom: 10px;
 }
 
