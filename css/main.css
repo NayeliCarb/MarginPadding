@@ -2,12 +2,12 @@
 div{
 	border: #FF8000 1px solid ;
 	background-color: #FFFFFF;
-	width: 150px;
-	height: 190px;
-	/*margin-top: 10px;*/
+	width: 160px;
+	height: 220px;
+	
 }
 p{
-	font-size: 10px;
+	font-size: 13px;
 	padding-bottom: 10px;
 }
 
@@ -16,6 +16,6 @@ h4{
 	padding-left: 10px;
 }
 .divUno{
-	width: 150px;
-	height: 160px;
+	width: 160px;
+	height: 200px;
 }
