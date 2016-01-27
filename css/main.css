@@ -8,13 +8,15 @@ h1{
 	color: #FF0080;
 }
 div{
-	border: #FF8000 1px solid ;
+	border: #FF0040 1px solid ;
 	background-color: #FFFFFF;
 	width: 160px;
 	height: 220px;
+	background-image: url("http://40.media.tumblr.com/2d73f40a17a1a9dacba099a1e4f40bf9/tumblr_ndtvvqf00c1tmzz9uo1_500.jpg");
 	
 }
 p{
+	color: #610B21;
 	font-size: 13px;
 	padding-bottom: 10px;
 }
@@ -22,8 +24,10 @@ p{
 h4{
 	font-size: 12px;
 	padding-left: 10px;
+	color: #B40431;
 }
 .divUno{
 	width: 160px;
 	height: 200px;
+	background-image: url("http://data.whicdn.com/images/97429973/superthumb.jpg");
 }
